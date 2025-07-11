@@ -1,1 +1,1 @@
-# Object_Calisthenics_OOP
+По материалам работы "Object Calisthenics" by Jeff Bay и её обсуждений.
